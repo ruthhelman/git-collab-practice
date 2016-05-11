@@ -1,1 +1,1 @@
-print("Hi neighbor")
+print("Hi neighbor, your haircut is so coool!")
